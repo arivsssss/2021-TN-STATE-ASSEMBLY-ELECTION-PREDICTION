@@ -88,8 +88,18 @@ A series of models were implemented and evaluated on the election dataset after 
   The removal of redundant columns and the engineering of new features led to clearer insights into voter behavior and candidate performance.
 - **Model Performance:**  
   Among the models, XGBoost consistently achieved the best predictive performance, while simpler models like KNN struggled with imbalanced class distributions.
-- **Insights:**  
-  The analysis highlights the potential for advanced models to accurately predict election outcomes when coupled with careful data preprocessing and feature selection.
+  ![image](https://github.com/user-attachments/assets/65269872-3505-4e1c-93a1-34a11cf5b0d4)
+
+- **Output:**  
+  Results on every model when a new foreign data is given.
+
+![image](https://github.com/user-attachments/assets/5ed55be0-8291-4066-8dc3-3f1259e33238)
+![image](https://github.com/user-attachments/assets/851d28df-ed5e-41e7-bcb3-7398d8e94d71)
+![image](https://github.com/user-attachments/assets/757b3d0f-b143-4d1a-9983-391ca91ef02f)
+![image](https://github.com/user-attachments/assets/b35c0a93-e8da-4d1b-aff1-7266146bb188)
+
+
+  
 
 ## Requirements
 
